@@ -8,3 +8,28 @@ body {
     width: 900px;
     
 }
+
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none; /*Remove o underline*/ 
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+#rodape {
+    
+}
